@@ -1,6 +1,8 @@
 # reaction-timer-test
 Reaction Timer test - a react native mobile app
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/nK7EyAj"><a href="//imgur.com/nK7EyAj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/WCKGlQ_w3jg)
+
 # Instructions to install
 
 1. Clone the gitHub repository: git clone git@github.com:chitra591/reaction-timer-test.git
