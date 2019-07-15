@@ -1,7 +1,7 @@
 # reaction-timer-test
 Reaction Timer test - a react native mobile app
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/WCKGlQ_w3jg)
+[![Watch the video](https://imgflip.com/i/35oiqx)](https://youtu.be/WCKGlQ_w3jg)
 
 # Instructions to install
 
