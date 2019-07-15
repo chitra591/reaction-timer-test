@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing HomeScreen renders as expected 1`] = `
+<HomeScreen
+  clearScoreCard={[Function]}
+  getRandomNumber={[Function]}
+  scoreCard={
+    Object {
+      "average": 0,
+      "scores": Array [],
+    }
+  }
+  setScore={[Function]}
+  store={
+    Object {
+      "clearActions": [Function],
+      "dispatch": [Function],
+      "getActions": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+    }
+  }
+/>
+`;
+
+exports[`Text Rendering should match to snapshot - Primary: Primary button snapshot 1`] = `
+<TouchableOpacity
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderColor": "#BFBFBF",
+        "borderRadius": 8,
+        "borderWidth": 1,
+        "height": "10%",
+        "justifyContent": "center",
+        "margin": 20,
+        "width": "80%",
+      },
+      Object {
+        "backgroundColor": "#a0fd98",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#767676",
+        "textAlign": "center",
+      }
+    }
+  >
+    test label
+  </Text>
+</TouchableOpacity>
+`;
+
+exports[`Text Rendering should match to snapshot - Secondary: Secondary button snapshot 1`] = `
+<TouchableOpacity
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderColor": "#BFBFBF",
+        "borderRadius": 8,
+        "borderWidth": 1,
+        "height": "10%",
+        "justifyContent": "center",
+        "margin": 20,
+        "width": "80%",
+      },
+      Object {
+        "backgroundColor": "#c7ffc2",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#767676",
+        "textAlign": "center",
+      }
+    }
+  >
+    test label
+  </Text>
+</TouchableOpacity>
+`;
