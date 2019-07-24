@@ -33,7 +33,7 @@ export default class NetworkManager {
         // .catch((error) => {
         //     callback(true);
         // });
-        // callback(false);
+        callback(false);
     }
 
     static callAPI = ({api_name, method, payload = {}}, callback) => {
